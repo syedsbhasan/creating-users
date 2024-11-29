@@ -16,7 +16,7 @@ In this tutorial, we will be creating user accounts with PowerShell, demonstrati
 - Windows Server 2022, at least 2vCPUs, 8GB RAM
 - Windows 10 Pro (21H2), at least 2vCPUs, 8GB RAM
 
-<h2>Actions and Observations</h2>
+<h2>Configuration Steps and Observation</h2>
 
 
 Log into Client-1 as mydomain.com\jane_admin.
