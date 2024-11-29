@@ -5,7 +5,19 @@
 <h1>Creating users with Powershell</h1>
 In this tutorial, we will be creating user accounts with PowerShell, demonstrating how to automate the process efficiently using scripts <br />
 
-<h></h>
+<h2>Environments and Technologies Used</h2>
+
+- Microsoft Azure (Virtual Machines/Compute)
+- Active Directory Domain Services
+- Powershell
+
+<h2>Operating Systems Used </h2>
+
+- Windows Server 2022, at least 2vCPUs, 8GB RAM
+- Windows 10 Pro (21H2), at least 2vCPUs, 8GB RAM
+
+<h2>Actions and Observations</h2>
+
 
 Log into Client-1 as mydomain.com\jane_admin.
 Once logged in, right-click on This PC and select Properties to open System Properties.
