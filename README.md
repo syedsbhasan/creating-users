@@ -38,7 +38,7 @@ Login to DC-1 as jane_admin, open PowerShell_ise as an administrator, create a b
 
 
 
-Create a new file, paste the contents of the script into it, run the script, and observe the accounts being created.
+Create a new file, paste the contents of the script into it, run the <a href="https://github.com/joshmadakor1/AD_PS/blob/master/Generate-Names-Create-Users.ps1"><strong>script</strong></a>, and observe the accounts being created.
 
 <p>
 <img src="https://i.imgur.com/Es0vQuW.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
